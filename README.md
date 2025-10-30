@@ -24,7 +24,7 @@ A modern, responsive landing page for VoiceNav - the voice-controlled browser au
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/VivianObiako/voicenav-landing-page.git
 cd voicenav-landing-page
 ```
 
@@ -38,7 +38,7 @@ npm install
 npm run dev
 ```
 
-4. Open [http://localhost:3000](http://localhost:3000) in your browser.
+4. Open [http://localhost:3001](http://localhost:3001) in your browser.
 
 ## 🏗️ Project Structure
 
