@@ -128,9 +128,6 @@ export default function Home() {
                     <h4 className="font-semibold text-green-900 dark:text-green-100 mb-2">Browser Support</h4>
                     <ul className="text-sm text-green-800 dark:text-green-200 space-y-1">
                       <li>• Safari (recommended)</li>
-                      <li>• Google Chrome</li>
-                      <li>• Mozilla Firefox</li>
-                      <li>• Microsoft Edge</li>
                     </ul>
                   </div>
                 </div>
